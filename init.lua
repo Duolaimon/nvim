@@ -1,0 +1,12 @@
+require("options")
+require("plugins")
+require("keymaps")
+require("colorscheme")
+require("lsp")
+require("plugins/lualine")
+require("plugins/navigation")
+require("plugins/highlight")
+require("plugins/cmp")
+require("plugins/telescope")
+require("plugins/rust-lang")
+
